@@ -1,0 +1,118 @@
+{
+  "main": {
+    "name":"Jonathan Stillman",
+    "description":"I am a Full Stack Web Developer",
+    "image":"profilepic.jpg",
+    "bio":"My name is Jonathan Stillman and I am a Full Stack Web Developer graduate from Vanderbilt University. My hobbies include traveling, photography, music production and playing soccer. My future goal would be to become a Software Engineer for a reputable company.",
+    "contactmessage":"If you are interested in any of my works or services, please contact me.",
+    "email": "jonathanstillman86@yahoo.com",
+    "phone": "828-702-5643",
+    "github":"https://github.com/JonathanStillman",
+    "project":"https://github.com/nordicgiant2/react-nice-resume",
+    "address":{
+      "street":"289 Alexander Blvd.",
+      "city":"Clarksville",
+      "state":"Tennessee",
+      "zip": "37040"
+    },
+    "website": "https://www.linkedin.com/in/jonathan-stillman-b006981b8/",
+    "resumedownload":"https://github.com/JonathanStillman",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/jonathan-stillman-b006981b8/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/JonathanStillman",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"These are a set of skills that I have either learned or feel comfortable in using.",
+    "education":[
+      {
+        "school":"Vanderbilt University",
+        "degree":"Full Stack Web Development",
+        "graduated":"January 2021",
+        "description":"During my school career, I was able to learn the process of what it takes to become a Full Stack Web Developer. From this I learned everything from better improving my basic coding skills to implementing them and designing an entire website."
+      },
+      {
+        "school":"A-B Tech Community College",
+        "degree":"Database Management",
+        "graduated":"January 2020 - July 2020",
+        "description":"My experience in this course was to learn Database Management. In a couple of my classes, I had to use php as well as MySQL to manage our assignments that were given to us."
+      }
+    ],
+    "work":[
+      {
+        "company":"GE Aviation",
+        "title":"CMC Technician ",
+        "years":"June 2019 - April - 2020",
+        "description":"My job here was to create Airplane parts that would eventually be shipped to Boeing as well as other big manufacturing plants. Though not receiving any notable rewards, I was praised by higher up positions on my work ethic and leadership skills. From this, I had a great opportunity to be promoted to a higher position."
+      },
+      {
+        "company":"Meritor",
+        "title":"Assembly Worker",
+        "years":"September 2018 - February - 2019",
+        "description":"My job here was to run various parts to different lines through out the plant. From this, I was valued for my work ethic and for information given at meetings. In upon leaving, the plant leader himself tried to convince me to stay due to how valuable I was to them."
+      }
+    ],
+    "skills":[
+      {
+        "name":"ReactJS",
+        "level":"80%"
+      },
+      {
+        "name":"HTML",
+        "level":"95%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"JavaScript",
+        "level":"70%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"60%"
+      },
+      {
+        "name":"MySQL",
+        "level":"70%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Music Player",
+        "category":"Vandy Music Player where users can look up songs and save them to a playlist",
+        "image":"MusicPlayer.png",
+        "url":"https://vast-gorge-60360.herokuapp.com"
+      },
+      {
+        "title":"Hearthstone Card App",
+        "category":"Another project from me in collaboration with others from my team.",
+        "image":"HearthstoneApp.png",
+        "url":"https://project2madness.herokuapp.com"
+      },
+      {
+        "title":"Google Book Search",
+        "category":"This is a book search app created using React. You can also save books that you are interested in.",
+        "image":"GoogleBookSearch.png",
+        "url":"https://rocky-harbor-15582.herokuapp.com"
+      },
+      {
+        "title":"Eat Da Hamburger",
+        "category":"This app allows the user to create and eat burgers using MySQL, Node, Express, Handlebars and ORM.",
+        "image":"Hamburger.png",
+        "url":"https://calm-peak-07808.herokuapp.com"
+      }
+    ]
+  }
+}
