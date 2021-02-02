@@ -8,7 +8,7 @@
     "email": "jonathanstillman86@yahoo.com",
     "phone": "828-702-5643",
     "github":"https://github.com/JonathanStillman",
-    "project":"https://github.com/nordicgiant2/react-nice-resume",
+    "project":"https://github.com/JonathanStillman/JonathanStillmanPortfolio",
     "address":{
       "street":"289 Alexander Blvd.",
       "city":"Clarksville",
@@ -16,7 +16,7 @@
       "zip": "37040"
     },
     "website": "https://www.linkedin.com/in/jonathan-stillman-b006981b8/",
-    "resumedownload":"https://github.com/JonathanStillman",
+    "resumedownload":"https://docs.google.com/document/d/1jpgUi7TaZXjTt7SNySBHERqU4Y7WkmUp_9ItLJuD-tI/edit?usp=sharing",
     "social":[
       {
         "name":"linkedin",
@@ -37,7 +37,7 @@
         "school":"Vanderbilt University",
         "degree":"Full Stack Web Development",
         "graduated":"January 2021",
-        "description":"During my school career, I was able to learn the process of what it takes to become a Full Stack Web Developer. From this I learned everything from better improving my basic coding skills to implementing them and designing an entire website."
+        "description":"During my school career, I was able to learn the process of what it takes to become a Full Stack Web Developer. From this I learned everything from improving my basic coding skills to implementing them in my projects."
       },
       {
         "school":"A-B Tech Community College",
@@ -57,7 +57,7 @@
         "company":"Meritor",
         "title":"Assembly Worker",
         "years":"September 2018 - February - 2019",
-        "description":"My job here was to run various parts to different lines through out the plant. From this, I was valued for my work ethic and for information given at meetings. In upon leaving, the plant leader himself tried to convince me to stay due to how valuable I was to them."
+        "description":"My job here was to run various parts to different lines throughout the plant. From this, I was praised for my work ethic and for information given at meetings. Upon leaving, the plant leader himself tried to convince me to stay due to how useful I was to the entire line."
       }
     ],
     "skills":[
