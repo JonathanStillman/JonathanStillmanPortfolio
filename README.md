@@ -7,6 +7,7 @@
 ### Vandy Music Player
 
 This application allows users to search for and save songs into a playlist!
+
 [View Website](https://vast-gorge-60360.herokuapp.com) / [View Github](https://github.com/heatherhern/Vandy-Music-Player)
 
 ### Hearthstone Card App
