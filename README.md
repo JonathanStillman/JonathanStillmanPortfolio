@@ -2,7 +2,7 @@
 
 ![img](PortfolioPreview.png)
 
-## Portfolio
+# Portfolio
 
 [View Website](https://gentle-cove-67452.herokuapp.com)
 
