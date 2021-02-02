@@ -1,1 +1,3 @@
 # JonathanStillmanPortfolio
+
+![img](ProfilePreview.png)
