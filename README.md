@@ -32,7 +32,7 @@ This app allows the user to create and "eat" burgers using MySQL, Node, Express,
 
 [View Website](https://github.com/JonathanStillman/EatDaHamburger) / [View Github](https://github.com/JonathanStillman/EatDaHamburger)
 
-## Techinical Skill Stack
+## Technical Skill Stack
 
 ### Front End
 
